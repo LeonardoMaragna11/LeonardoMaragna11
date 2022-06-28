@@ -1,12 +1,6 @@
-<div>
-  <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+## Olá A todosss 😎
 
-## Olá 👋
-
-Seja muit bem vindo ao meu perfil. Abaixo, você terá algumas informações sobre mim
+Seja muito bem vindo ao meu perfil. Abaixo, você terá algumas informações sobre mim
 
 ## Informações públicas
 
@@ -20,3 +14,8 @@ Sobre mim, soun curioso por natureza e amo aprender coisas novas e que possa aju
 * **Idade**: 17 anos
 * **Atualmente moro em**: Votrantim, São Paulo, Brasil
 
+<div>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
