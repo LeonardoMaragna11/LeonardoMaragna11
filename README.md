@@ -8,7 +8,7 @@ Me chamo Leonardo Maragna. Atualmente eu moro em Votorantim/SP.
 Sou técnico em em Desenvolvimento de sistemas pela Etec Fernado Prestes
 Sobre mim, soun curioso por natureza e amo aprender coisas novas e que possa ajudar alguém
 
-## Informações
+## Contato
 <div>
     <a target="_blank" href="https://www.linkedin.com/in/leonardo-augusto-maragna-018797215/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
