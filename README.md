@@ -1,7 +1,7 @@
 ## Olá A todosss 😎
 
 Seja muito bem vindo ao meu perfil. Abaixo, você terá algumas informações sobre mim
-#🎸☕😎🇧🇷🇮🇹
+## 🎸☕😎🇧🇷🇮🇹
 ## Informações públicas
 
 Me chamo Leonardo Maragna. Atualmente eu moro em Votorantim/SP.
